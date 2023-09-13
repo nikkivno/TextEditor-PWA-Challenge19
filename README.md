@@ -1,1 +1,1 @@
-# TextEditor-PWA-Challenge19
+# Progressive Web Application Text Editor - Challenge19
